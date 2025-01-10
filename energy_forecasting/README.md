@@ -24,6 +24,7 @@ Other variables reviewed in the dataset include, solar and wind capacities, wind
 Methodology
 ------------
 To be converted to a flowchart. Data Processing and EDA, Feature Engineering and Model Training, Model Evaluation Metrics and Dashboard Setup.
+![image alt](image url)
 
 Findings
 -------------
